@@ -19,7 +19,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/buger/goreplay/metrics"
+	"github.com/lidedede/gor/metrics"
 )
 
 var httpMu sync.Mutex
